@@ -4,7 +4,8 @@
 [![Site](https://img.shields.io/website?label=ThiagoAlves.com&style=for-the-badge&url=https://thiagoalves.netlify.app/)](https://thiagoalves.netlify.app/)
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alves0327/)
 
-![Thiago Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesThiago&show_icons=true&theme=tokyonight)
+![Thiago Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesThiago&show_icons=true&theme=tokyonig)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesThiago&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias:
