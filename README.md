@@ -1,7 +1,6 @@
 
 ### Hello, i'am Thiago👋
 
-[![Site](https://img.shields.io/website?label=ThiagoAlves&style=for-the-badge&url=https://visuaplus.com.br/)](https://visuaplus.com.br/)
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alves0327/)
 
 ![Thiago Alves](https://github-readme-stats.vercel.app/api?username=AlvesThiago&show_icons=true&theme=tokyonig)
