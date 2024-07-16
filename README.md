@@ -1,5 +1,6 @@
 
 ### Hello, i'am Thiago👋
+Engenheiro Front-End em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Sistemas de Informação. Profissional com perfil analítico, voltado para a solução de problemas e trabalho em equipe, com alta capacidade de adaptação.
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alves0327/)
 
